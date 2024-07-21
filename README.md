@@ -13,3 +13,4 @@
     <img src="https://img.shields.io/badge/WhatsApp-lime?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
   </a>
 </div>
+<img src="https://komarev.com/ghpvc/?username=Kunzete&style=flat-square&color=blue" alt=""/>
