@@ -1,1 +1,3 @@
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/RbtJJPft2P7rcpbBdb" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/fomoduck-reaction-happy-cute-RbtJJPft2P7rcpbBdb">via GIPHY</a></p>
+<div id="header" align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXphMG04NHJsYzdxYm9qN3E0ZGpobTNrYWxjbm1rdHJpMnI3dXU4NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbtJJPft2P7rcpbBdb/giphy.gif" width="100"/>
+</div>
