@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDBwdGhqMmJjc3NlMTcxeWw2Y2h6bjNjODdrbm01c3J3d2dmNWVuMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbtJJPft2P7rcpbBdb/giphy.gif"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDBwdGhqMmJjc3NlMTcxeWw2Y2h6bjNjODdrbm01c3J3d2dmNWVuMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbtJJPft2P7rcpbBdb/giphy.gif" width="180"/>
 </div>
 <h1 align="center">Hi 👋, I'm Mohtashim Khan</h1>
 <h3 align="center">A passionate web developer from Pakistan</h3>
