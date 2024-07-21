@@ -20,8 +20,6 @@
 
 - 📫 How to reach me **newkunzete@gmail.com**
 
-- 📄 Know about my experiences [https://rb.gy/2omi86](https://rb.gy/2omi86)
-
 - ⚡ Fun fact **I think I am a Web Developer**
 
 <h3 align="left">Connect with me:</h3>
