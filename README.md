@@ -2,7 +2,7 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDBwdGhqMmJjc3NlMTcxeWw2Y2h6bjNjODdrbm01c3J3d2dmNWVuMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbtJJPft2P7rcpbBdb/giphy.gif" width="180"/>
 </div>
 
-<h3>💫 About Me:</h3>
+<h1>💫 About Me:</h1>
 🔭 I’m currently working on Laravel<br><br>🌱 I’m currently learning .NET<br><br>👯 I’m looking to collaborate on Laravel/PHPMyAdmin<br><br>🤝 I’m looking for help with ASP.NET WebAPI<br><br>👨‍💻 All of my projects are available at https://kunzete.netlify.app<br><br>💬 Ask me about Bootstrap, PHP, Laravel<br><br>📫 How to reach me newkunzete@gmail.com<br><br>⚡ Fun fact I think I am a Web Developer
 
 
