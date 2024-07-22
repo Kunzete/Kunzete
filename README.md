@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/654fa4be5d8356f96db97699_WumpusDancing.gif" width="180"/>
+  <img src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/654fa4be5d8356f96db97699_WumpusDancing.gif" width="200"/>
 </div>
 
 <h1>💫 About Me:</h1>
